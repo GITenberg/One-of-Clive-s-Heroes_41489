@@ -12,6 +12,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/39124
     - http://en.wikipedia.org/wiki/Herbert_Strang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41489#One-of-Clive-s-Heroes
 gutenberg_issued: '2012-11-25'
 gutenberg_type: Text
 identifiers:
